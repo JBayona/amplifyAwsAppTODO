@@ -2,4 +2,4 @@
 
 App created with Amplify framework and AWS resources.
 
-Resource: https://docs.amplify.aws/start/getting-started/installation/q/integration/js/
+Resource: https://docs.amplify.aws/start/getting-started/installation/q/integration/react/
